@@ -42,7 +42,7 @@ export const Hero = () => {
         >
           <h2 className="text-secondaryText text-sm lg:text-base xl:text-lg sm:text-base mt-10 px-12 sm:px-48 ">
             Experience seamless business integrations and powerful insights with
-            our cutting-edge analytic tools.
+            our cutting-edge binderless tungsten carbide.
           </h2>
         </motion.div>
         <motion.div
